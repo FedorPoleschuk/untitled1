@@ -3,7 +3,8 @@
 
 ##Tutorials
 
-* [tutorial](\tutorial)
+* [tutorial](\tutorial.md)
+
 ## Править этот проект ![Build status badge](https://github.com/fedorpoleschuk/untitled1/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
