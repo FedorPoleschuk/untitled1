@@ -1,15 +1,9 @@
 
 > Open this page at [https://fedorpoleschuk.github.io/untitled1/](https://fedorpoleschuk.github.io/untitled1/)
 
-## Использовать это расширение
+##Tutorials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/fedorpoleschuk/untitled1** and import
-
+* [tutorial](\tutorial)
 ## Править этот проект ![Build status badge](https://github.com/fedorpoleschuk/untitled1/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
